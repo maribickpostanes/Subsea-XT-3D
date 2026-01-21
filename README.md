@@ -1,1 +1,1 @@
-# Subsea-XT-3D
+This repository hosts a high-performance 3D interactive plot of a Subsea Christmas Tree (XT) processed from an IGES CAD file. It is optimized specifically for web-based viewing, allowing you to rotate and inspect the model's complex geometry directly in your browser.

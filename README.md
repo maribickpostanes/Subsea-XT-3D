@@ -1,5 +1,5 @@
 # 3D Interactive Subsea XT Visualization (IGES file) using Python
-This repository hosts a proof-of-concept, interactive Subsea Christmas Tree (XT) plot visualized with Plotly from an IGES file. It is optimized specifically for web-based viewing, allowing you to rotate and inspect the model's complex geometry directly in your browser.
+This repository hosts a proof-of-concept, interactive 3D Subsea Christmas Tree (XT) plot visualized with Plotly from an IGES file. It is optimized specifically for web-based viewing, allowing you to rotate and inspect the model's complex geometry directly in your browser.
 
 Github Pages Link: https://maribickpostanes.github.io/Subsea-XT-3D/
 

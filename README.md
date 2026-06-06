@@ -6,6 +6,5 @@ Github Pages Link: https://maribickpostanes.github.io/Subsea-XT-3D/
 <img width="1920" height="1080" alt="Interactive 3D Subsea XT" src="https://github.com/user-attachments/assets/c874877e-0435-4c3d-a9e4-cdff48d7c634" />
 
 ## 3D Model Source:
-- Model: Subsea-XT v2
-- Author: Markus M.J. (via GrabCAD)
+- 3D Model: Subsea-XT v2 by Markus M.J. via GrabCAD
 - Format: IGES CAD Exchange Format (.iges)

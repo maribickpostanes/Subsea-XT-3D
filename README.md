@@ -10,7 +10,7 @@ This repository hosts a proof-of-concept, interactive 3D Subsea Christmas Tree (
 - [Experience the interactive 3D plot via Github Pages](https://maribickpostanes.github.io/Subsea-XT-3D/)
 - [3D Interactive Subsea XT Linkedin Post](https://www.linkedin.com/posts/maribickpostanes_python-cadquery-numpy-ugcPost-7419752288132493312-aR8z/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB0zM30B4KzLX-dj_Wzk1w4cfxNQrmDmOYs)
 
-## 3D Model Source:
+## 3D Model Source
 - 3D Model: Subsea-XT v2 by Markus M.J. via GrabCAD
 - Format: IGES CAD Exchange Format (.iges)
 
